@@ -2,6 +2,13 @@
 
 > A Vue.js project
 
+## 效果
+
+![](http://on891bjlf.bkt.clouddn.com/vue/1.png)
+![](http://on891bjlf.bkt.clouddn.com/vue/2.png)
+![](http://on891bjlf.bkt.clouddn.com/vue/3.png)
+![](http://on891bjlf.bkt.clouddn.com/vue/4.png)
+![](http://on891bjlf.bkt.clouddn.com/vue/6.png)
 ## Build Setup
 
 ``` bash
